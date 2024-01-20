@@ -5,3 +5,4 @@ Laboratory exercise solutions for:
 - Lab 2: LTI Systems
 - Lab 4: FIR Filter Design
 - Lab 5: IIR Filter Design
+- Lab 6: Fast Fourier Transform

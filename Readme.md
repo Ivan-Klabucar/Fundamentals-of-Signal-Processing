@@ -1,4 +1,6 @@
-# Fundamentals of Signal Processing
+# Fundamentals of Signal Processing – ID 223374
+
+### University of Zagreb – Faculty of Electrical Engineering and Computing
 
 Laboratory exercise solutions for:
 - Lab 1: Sampling and Spectral Analysis
